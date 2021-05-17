@@ -1,2 +1,3 @@
-![Mariobobs's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariobob&count_private=true&show_icons=true&theme=radical&hide=stars) <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariobob)
+<div align="center">
+  <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" alt="Octocat Spinner Icon" width="45" height="45">
+</div>
